@@ -37,13 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujalTripathi&show_icons=true&theme=radical" alt="Sujal's GitHub stats" />
-</p>
-
----
-
 ### 🌟 Featured Project
 **🛎️ Wanderlust - Hotel listing platform like Airbnb**  
 🔗 [Live Project](https://wanderlust-n561.onrender.com/listings) | [GitHub Repo](https://github.com/SujalTripathi/Major-Project)
