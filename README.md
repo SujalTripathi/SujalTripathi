@@ -35,12 +35,3 @@
 
 </p>
 
----
-
-### 🌟 Featured Project
-**🛎️ Wanderlust - Hotel listing platform like Airbnb**  
-🔗 [Live Project](https://wanderlust-n561.onrender.com/listings) | [GitHub Repo](https://github.com/SujalTripathi/Major-Project)
-
-**Real-time Video Call App 📹 (Built using WebRTC & Socket.io)**
-**This project enables users to create and join virtual meetings with real-time video, audio, and chat capabilities.**  
-🔗 [Live Project](https://sujalfrontend.onrender.com) | [GitHub Repo](https://github.com/SujalTripathi/Virtual_Video_Call)
