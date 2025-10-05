@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Tripathi</h1>
 
-<p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy0o33h0006l104gg638478">
-    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Registered" width="200">
-  </a>
-</p>
 
 
 <p align="center">🚀 A tech enthusiast who enjoys building cool things and growing every day.</p>
@@ -42,4 +37,11 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
 
 </p>
+
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy0o33h0006l104gg638478">
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Registered" width="200">
+  </a>
+</p>
+
 
