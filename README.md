@@ -38,9 +38,31 @@
 
 </p>
 
+---
+
+### 🏆 My Hacktoberfest 2025 Achievements
 <p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy0o33h0006l104gg638478">
-    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Registered" width="200">
+  <a href="https://www.holopin.io/@sujaltripathi">
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Hacktoberfest 2025 Registered" width="150">
+  </a>
+  <a href="https://www.holopin.io/@sujaltripathi">
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Hacktoberfest 2025 Level 1" width="150">
+  </a>
+  <a href="https://www.holopin.io/@sujaltripathi">
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Hacktoberfest 2025 Level 2" width="150">
+  </a>
+  <a href="https://www.holopin.io/@sujaltripathi">
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" alt="Hacktoberfest 2025 Level 3" width="150">
+  </a>
+  <br>
+  <a href="https://www.holopin.io/@sujaltripathi">
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Hacktoberfest 2025 Level 4" width="150">
+  </a>
+  <a href="https://www.holopin.io/@sujaltripathi">
+    <img src="https://assets.holopin.io/hf2025levels/tree-planted.webp" alt="Hacktoberfest 2025 Tree Planted" width="150">
+  </a>
+  <a href="https://www.holopin.io/@sujaltripathi">
+    <img src="https://assets.holopin.io/hf2025levels/supercontributor.webp" alt="Hacktoberfest 2025 Supercontributor" width="150">
   </a>
 </p>
 
