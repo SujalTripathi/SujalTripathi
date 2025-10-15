@@ -59,11 +59,12 @@
     <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" alt="Hacktoberfest 2025 Level 4" width="150">
   </a>
   <a href="https://www.holopin.io/@sujaltripathi">
-    <img <img width="150" alt="image" src="https://github.com/user-attachments/assets/9b1b6db9-2cda-4b9f-8400-e1186b78d7ce" />
- alt="Hacktoberfest 2025 Tree Planted" width="150">
+     <img src="https://github.com/user-attachments/assets/9b1b6db9-2cda-4b9f-8400-e1186b78d7ce" alt="Hacktoberfest 2025 Tree Planted" width="150"/>
+ 
   </a>
   <a href="https://www.holopin.io/@sujaltripathi">
-    <img src="https://assets.holopin.io/hf2025levels/supercontributor.webp" alt="Hacktoberfest 2025 Supercontributor" width="150">
+    <img src="https://github.com/user-attachments/assets/e120ff72-5a1e-472a-bf4f-a332bd638d03" alt="Hacktoberfest 2025 Supercontributor" width="150"/>
+
   </a>
 </p>
 
