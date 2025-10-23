@@ -78,31 +78,33 @@ I'm a passionate **B.E. Computer Engineering student** from Surat, Gujarat, divi
 
 ---
 
+
 ## 🏅 Digital Badges & Achievements
 
 ### Hacktoberfest 2025 - Proud Contributor! 🌟  
-I've actively participated in Hacktoberfest 2025, earning these digital badges:
+I've actively participated in Hacktoberfest 2025, earning these digital badges from Holopin:
 
 <div align="center">
+  <!-- Full Holopin Badge Wall - Shows all your badges automatically -->
+  <a href="https://www.holopin.io/@sujaltripathi">
+    <img src="https://holopin.io/api/user/badges?username=sujaltripathi" alt="Sujal's Holopin Badges" width="800" />
+  </a>
+  
+  <!-- Specific Badges Table for Highlights (with direct links) -->
+  | ![Level 4](https://assets.holopin.io/hf2025levels/lvl4-human.webp) | ![Supercontributor](https://github.com/user-attachments/assets/e120ff72-5a1e-472a-bf4f-a332bd638d03) | ![Tree Planted](https://github.com/user-attachments/assets/9b1b6db9-2cda-4b9f-8400-e1186b78d7ce) |
+  |:---:|:---:|:---:|
+  | **Level 4** - Advanced Contributor | **Supercontributor** - Impactful PRs | **Tree Planted** - Eco-Friendly 🌳 |
 
-| ![Early Bird](https://assets.holopin.io/hf2025levels/lvl0-human.webp) | ![Level 1](https://assets.holopin.io/hf2025levels/lvl1-human.webp) | ![Level 2](https://assets.holopin.io/hf2025levels/lvl2-human.webp) |
-|:---:|:---:|:---:|
-| Early Bird | Level 1 | Level 2 |
-
-| ![Level 3](https://assets.holopin.io/hf2025levels/lvl3-human.webp) | ![Level 4](https://assets.holopin.io/hf2025levels/lvl4-human.webp) | ![Tree Planted](https://github.com/user-attachments/assets/9b1b6db9-2cda-4b9f-8400-e1186b78d7ce) |
-|:---:|:---:|:---:|
-| Level 3 | Level 4 | Tree Planted |
-
-| ![Supercontributor](https://github.com/user-attachments/assets/e120ff72-5a1e-472a-bf4f-a332bd638d03) | ![Badge Club](https://assets.holopin.io/hf2025levels/multiplier.webp) | ![Badge Club 1](https://holopin.io/api/user/badge-image?uniqueId=cmh34i3cn0019l20462pev3qp) | ![Early Bird Pegasaurus](https://holopin.io/api/user/badge-image?uniqueId=cmh34nv1y004xju04lh27h2gv) |
-|:---:|:---:|:---:|:---:|
-| Supercontributor | Multiplier Club | [Holopin x Hacktoberfest: 1 Badge Club](https://www.holopin.io/userbadge/cmh34i3cn0019l20462pev3qp) | [Early Bird Pegasaurus](https://www.holopin.io/userbadge/cmh34nv1y004xju04lh27h2gv) |
+  | ![1 Badge Club](https://holopin.io/api/user/badge-image?uniqueId=cmh34i3cn0019l20462pev3qp) | ![Early Bird Pegasaurus](https://holopin.io/api/user/badge-image?uniqueId=cmh34nv1y004xju04lh27h2gv) | ![Multiplier Club](https://assets.holopin.io/hf2025levels/multiplier.webp) |
+  |:---:|:---:|:---:|
+  | **[1 Badge Club](https://www.holopin.io/userbadge/cmh34i3cn0019l20462pev3qp)** - Badge Collector | **[Early Bird Pegasaurus](https://www.holopin.io/userbadge/cmh34nv1y004xju04lh27h2gv)** - Early Starter | **Multiplier Club** - Community Booster |
 
 </div>
 
-- **Total PRs:** 10+ merged across beginner-friendly OSS.
-- **Themes:** Web dev fixes, docs, MERN improvements.
-- **Why it matters:** Builds open-source skills & collaboration!
-
+- **Total PRs:** 10+ merged across beginner-friendly OSS repos.
+- **Themes:** Web dev fixes, documentation, MERN contributions.
+- **Why it matters:** Demonstrates open-source collaboration and growth!
+- **View All:** [Full Holopin Profile](https://www.holopin.io/@sujaltripathi) for live badges.
 ### Other Digital Badges & Certs
 
 - **Java Programming Foundations** (LinkedIn Learning)
