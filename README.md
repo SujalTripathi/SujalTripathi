@@ -93,7 +93,7 @@ I've actively participated in Hacktoberfest 2025, earning these digital badges:
 |:---:|:---:|:---:|
 | Level 3 | Level 4 | Tree Planted |
 
-| ![Supercontributor](https://github.com/user-attachments/assets/e120ff72-5a1e-472a-bf4f-a332bd638d03) | ![Badge Club](https://assets.holopin.io/hf2025levels/multiplier.webp) |
+| ![Supercontributor](https://github.com/user-attachments/assets/e120ff72-5a1e-472a-bf4f-a332bd638d03) | ![Badge Club]([https://assets.holopin.io/hf2025levels/multiplier.webp](https://www.holopin.io/userbadge/cmh34i3cn0019l20462pev3qp)) |
 |:---:|:---:|
 | Supercontributor | Multiplier Club |
 
