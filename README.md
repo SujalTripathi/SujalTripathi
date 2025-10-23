@@ -93,9 +93,9 @@ I've actively participated in Hacktoberfest 2025, earning these digital badges:
 |:---:|:---:|:---:|
 | Level 3 | Level 4 | Tree Planted |
 
-| ![Supercontributor](https://github.com/user-attachments/assets/e120ff72-5a1e-472a-bf4f-a332bd638d03) | ![Badge Club]([https://assets.holopin.io/hf2025levels/multiplier.webp](https://www.holopin.io/userbadge/cmh34i3cn0019l20462pev3qp)) |
-|:---:|:---:|
-| Supercontributor | Multiplier Club |
+| ![Supercontributor](https://github.com/user-attachments/assets/e120ff72-5a1e-472a-bf4f-a332bd638d03) | ![Badge Club](https://assets.holopin.io/hf2025levels/multiplier.webp) | ![Badge Club 1](https://holopin.io/api/user/badge-image?uniqueId=cmh34i3cn0019l20462pev3qp) | ![Early Bird Pegasaurus](https://holopin.io/api/user/badge-image?uniqueId=cmh34nv1y004xju04lh27h2gv) |
+|:---:|:---:|:---:|:---:|
+| Supercontributor | Multiplier Club | [Holopin x Hacktoberfest: 1 Badge Club](https://www.holopin.io/userbadge/cmh34i3cn0019l20462pev3qp) | [Early Bird Pegasaurus](https://www.holopin.io/userbadge/cmh34nv1y004xju04lh27h2gv) |
 
 </div>
 
