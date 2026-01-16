@@ -3,12 +3,15 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujal%20Tripathi&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=62&animation=twinkling"/>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+Profile!+👋;Full+Stack+Web+Developer+💻;MERN+Stack+Enthusiast+⚛️;Open+Source+Contributor+🌟;Passionate+Problem+Solver+🚀;Always+Learning+%26+Growing+📚" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8EFC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;MERN+Stack+Expert;Open+Source+Contributor;Always+Learning+%26+Growing!" alt="Typing SVG" />
+</a>
+
+</div>
+
 
 <!-- Badges Row 1: Profile Info -->
 <p align="center">
@@ -61,8 +64,8 @@ I'm a **passionate Full Stack Developer** from India, currently in my **3rd year
 ### 📫 Let's Connect
 
 - 💌 **Email:** sujaltripathi816@gmail.com
-- 🌐 **Portfolio:** [Coming Soon]
-- 📍 **Location:** Ahmedabad, Gujarat, India
+- 🌐 **Portfolio:** https://sujalprotfolio.netlify.app/
+- 📍 **Location:** Surat, Gujarat, India
 - ⚡ **Fun Fact:** I balance coding marathons with dance choreography! 💃
 
 <br clear="both"/>
@@ -72,30 +75,33 @@ I'm a **passionate Full Stack Developer** from India, currently in my **3rd year
 ## 📊 GitHub Performance Analytics
 
 <div align="center">
-  
+
 <!-- GitHub Stats Cards -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalTripathi&show_icons=true&theme=react&bg_color=0d1117&title_color=3f8efc&icon_color=3f8efc&text_color=ffffff&border_color=3f8efc&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SujalTripathi&theme=react&background=0d1117&ring=3f8efc&fire=3f8efc&currStreakLabel=3f8efc&border=3f8efc" alt="GitHub Streak"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujalTripathi&show_icons=true&theme=react&bg_color=0d1117&title_color=3f8efc&icon_color=3f8efc&text_color=ffffff&border_color=3f8efc&count_private=true&include_all_commits=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SujalTripathi&theme=react&background=0d1117&ring=3f8efc&fire=3f8efc&currStreakLabel=3f8efc&border=3f8efc"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Activity Graph -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalTripathi&theme=react-dark&bg_color=0d1117&color=3f8efc&line=3f8efc&point=ffffff&area=true&hide_border=false" alt="Contribution Graph"/>
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalTripathi&theme=react-dark&bg_color=0d1117&color=3f8efc&line=3f8efc&point=ffffff&area=true&hide_border=false" alt="Contribution Graph"/>
 
 <!-- Language Stats -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=compact&theme=react&bg_color=0d1117&title_color=3f8efc&text_color=ffffff&border_color=3f8efc&hide_border=false&langs_count=10" alt="Top Languages"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=donut&theme=react&bg_color=0d1117&title_color=3f8efc&text_color=ffffff&border_color=3f8efc&hide_border=false&langs_count=8" alt="Language Distribution"/>
-</p>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujalTripathi/SujalTripathi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujalTripathi/SujalTripathi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SujalTripathi/SujalTripathi/output/github-contribution-grid-snake.svg">
-</picture>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=compact&theme=react&bg_color=0d1117&title_color=3f8efc&text_color=ffffff&border_color=3f8efc&langs_count=10"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=donut&theme=react&bg_color=0d1117&title_color=3f8efc&text_color=ffffff&border_color=3f8efc&langs_count=8"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -211,15 +217,29 @@ I'm a **passionate Full Stack Developer** from India, currently in my **3rd year
 | 📚 **DSA Solutions** | 500+ problem solutions | Java, JavaScript, Python | 📖 Ongoing |
 | 🎮 **Game Jam Entries** | Creative game development | Unity, C# | 🎲 Completed |
 
-### 🔥 Contribution Highlights
+## 🔥 Contribution Highlights
 
-- ✅ **100+ Pull Requests** merged across multiple repositories
-- ✅ **50+ Issues** solved for various open-source projects
-- ✅ **Code Reviews** - Actively reviewing community contributions
-- ✅ **Documentation** - Improved docs for 5+ major projects
-- ✅ **Mentoring** - Helping newcomers get started with open source
+<div align="center">
+
+| Achievement | Details |
+|:-----------:|---------|
+| 🚀 **Pull Requests** | 100+ PRs merged across multiple repositories |
+| 🐛 **Issues Solved** | 50+ issues resolved for various open-source projects |
+| 👀 **Code Reviews** | Actively reviewing community contributions |
+| 📚 **Documentation** | Improved docs for 5+ major projects |
+| 🤝 **Mentoring** | Helping newcomers get started with open source |
+
+### 📊 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull_Requests-100+-success?style=for-the-badge&logo=github" alt="Pull Requests"/>
+  <img src="https://img.shields.io/badge/Issues_Solved-50+-blue?style=for-the-badge&logo=github" alt="Issues"/>
+  <img src="https://img.shields.io/badge/Projects-10+-orange?style=for-the-badge&logo=git" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Hacktoberfest-Super_Contributor-ff6b6b?style=for-the-badge" alt="Hacktoberfest"/>
+</p>
 
 </div>
+
 
 ---
 
