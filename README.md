@@ -125,7 +125,7 @@
 <a href="https://www.youtube.com/@sujaldancechannel" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-<a href="https://www.linkedin.com" target="_blank">
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:sujaltripathi816@gmail.com">
