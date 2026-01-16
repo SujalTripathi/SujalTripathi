@@ -1,6 +1,15 @@
 <div align="center">
 
-<!-- Banner with Typing Animation -->
+<!-- Banner with Typing Animation
+     Capsule parameters:
+     - type=waving, section=header: overall shape and section.
+     - color=gradient, customColorList=6,11,20: gradient style and colors.
+     - height=180: vertical size of the banner.
+     - text=Hi 👋, I'm Sujal Tripathi: main title text.
+     - fontSize=42, fontAlignY=32: title font size and vertical alignment.
+     - desc=Full Stack Developer | Tech Enthusiast | Problem Solver: subtitle text.
+     - descAlignY=51, descAlign=50: subtitle alignment.
+-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Sujal%20Tripathi&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=50"/>
 
 <!-- Typing Animation -->
