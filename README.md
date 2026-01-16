@@ -13,7 +13,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Sujal%20Tripathi&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descAlign=50"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+%26+Growing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com
+         ?font=Fira+Code
+         &weight=600
+         &size=28
+         &pause=1000
+         &color=3F8EFC
+         &center=true
+         &vCenter=true
+         &random=false
+         &width=600
+         &lines=Welcome to my GitHub Profile!;Full Stack Web Developer;MERN Stack Enthusiast;Open Source Contributor;Always Learning & Growing!"
+    alt="Typing SVG"
+  />
+</a>
 
 <!-- Visitor Counter -->
 <p>
