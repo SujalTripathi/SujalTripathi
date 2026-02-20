@@ -55,6 +55,7 @@ I'm a **passionate Full Stack Developer** from India, currently in my **3rd year
 ### 💡 What Makes Me Different
 
 - ✅ **Super Contributor** in Hacktoberfest 2025
+- ✅  **Rank 3th** in Social Winter Of Code (swoc26) by **github**
 - ✅ Active contributor across **10+ open-source projects**
 - ✅ Strong foundation in **Data Structures & Algorithms**
 - ✅ Experience with **full development lifecycle** (design → deployment)
