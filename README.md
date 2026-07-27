@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujal%20Tripathi&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=62&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sujal%20Tripathi&fontSize=70&fontAlignY=35&desc=Full%2Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descAlign=62" />
 
 <div align="center">
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8EFC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;MERN+Stack+Expert;Open+Source+Contributor;Always+Learning+%26+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8EFC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Open+Source+Enthusiast;GSoC+2026+Contributor" alt="Typing SVG" />
 </a>
 
 </div>
@@ -41,19 +41,20 @@
 
 ### 👨‍💻 Who Am I?
 
-I'm a **passionate Full Stack Developer** from India, currently in my **3rd year of college**, building innovative web applications and contributing to open-source projects. I thrive on solving complex problems and creating impactful solutions.
+I'm a **passionate Full Stack Developer** from India, currently in my **3rd year of college**, building innovative web applications and contributing to open-source projects. I thrive on solving complex problems, learning new technologies, and making a positive impact in the developer community.
 
 ### 🎯 Current Focus
 
+- 🔭 **Currently:** GSoC 2026 Contributor with **LibreHealth**
 - 🔭 **Building:** Advanced full-stack web applications with **MERN Stack**
 - 🌱 **Learning:** Go, Kubernetes, System Design, Advanced DSA
 - 👯 **Collaborating:** Open-source projects (Palisadoes, Talawa, CircuitVerse)
-- 🎓 **Preparing for:** GSoC 2026, Internships, and Competitive Programming
 - 💼 **Seeking:** Software Engineering Internships & Collaboration Opportunities
 - 🎥 **Creating:** Tech tutorials and dance content on YouTube
 
 ### 💡 What Makes Me Different
 
+- ✅ **GSoC 2026 Contributor** with LibreHealth
 - ✅ **Super Contributor** in Hacktoberfest 2025
 - ✅  **Rank 3th** in Social Winter Of Code (swoc26) by **github**
 - ✅ Active contributor across **10+ open-source projects**
@@ -81,7 +82,7 @@ I'm a **passionate Full Stack Developer** from India, currently in my **3rd year
 <table align="center">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujalTripathi&show_icons=true&theme=react&bg_color=0d1117&title_color=3f8efc&icon_color=3f8efc&text_color=ffffff&border_color=3f8efc&count_private=true&include_all_commits=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujalTripathi&show_icons=true&theme=react&bg_color=0d1117&title_color=3f8efc&icon_color=3f8efc&text_color=ffffff&border_color=3f8efc" alt="GitHub Stats" />
     </td>
     <td>
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SujalTripathi&theme=react&background=0d1117&ring=3f8efc&fire=3f8efc&currStreakLabel=3f8efc&border=3f8efc"/>
@@ -90,16 +91,16 @@ I'm a **passionate Full Stack Developer** from India, currently in my **3rd year
 </table>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalTripathi&theme=react-dark&bg_color=0d1117&color=3f8efc&line=3f8efc&point=ffffff&area=true&hide_border=false" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalTripathi&theme=react-dark&bg_color=0d1117&color=3f8efc&line=3f8efc&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
 
 <!-- Language Stats -->
 <table align="center">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=compact&theme=react&bg_color=0d1117&title_color=3f8efc&text_color=ffffff&border_color=3f8efc&langs_count=10"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=compact&theme=react&bg_color=0d1117&title_color=3f8efc&text_color=ffffff&border_color=3f8efc" alt="Languages" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=donut&theme=react&bg_color=0d1117&title_color=3f8efc&text_color=ffffff&border_color=3f8efc&langs_count=8"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=donut&theme=react&bg_color=0d1117&title_color=3f8efc&text_color=ffffff&border_color=3f8efc" alt="Language Donut" />
     </td>
   </tr>
 </table>
@@ -191,6 +192,7 @@ I'm a **passionate Full Stack Developer** from India, currently in my **3rd year
 
 <!-- Achievement Stats -->
 <p align="center">
+  <img src="https://img.shields.io/badge/GSoC_2026-LibreHealth-green?style=for-the-badge" alt="GSoC 2026"/>
   <img src="https://img.shields.io/badge/Hacktoberfest_2025-Super_Contributor-ff6b6b?style=for-the-badge&logo=hacktoberfest" alt="Hacktoberfest"/>
   <img src="https://img.shields.io/badge/Open_Source-100+_Contributions-4c1?style=for-the-badge&logo=github" alt="Contributions"/>
   <img src="https://img.shields.io/badge/Active_Projects-10+-blue?style=for-the-badge&logo=git" alt="Projects"/>
@@ -275,8 +277,8 @@ I'm a **passionate Full Stack Developer** from India, currently in my **3rd year
 
 | Quarter | Goals | Progress |
 |---------|-------|----------|
-| **Q1** | ✅ Master System Design<br>✅ Complete 3 Major Projects<br>✅ GSoC Application | 🔄 In Progress |
-| **Q2** | 🎯 Secure GSoC Position<br>🎯 Land 1st Internship<br>🎯 500+ DSA Problems | 📅 Planned |
+| **Q1** | ✅ Master System Design<br>✅ Complete 3 Major Projects<br>✅ GSoC 2026 with LibreHealth | 🔄 In Progress |
+| **Q2** | 🎯 Excel in GSoC Program<br>🎯 Land 1st Internship<br>🎯 500+ DSA Problems | 📅 Planned |
 | **Q3** | 🚀 Build Advanced Portfolio<br>🚀 Major OSS Contribution<br>🚀 Tech Content Creation | 📅 Upcoming |
 | **Q4** | 💼 2nd Internship<br>💼 Competitive Programming<br>💼 Full-Time Prep | 📅 Future |
 
@@ -300,3 +302,5 @@ const myPhilosophy = {
     learning: "Every day is a learning opportunity",
     impact: "Build solutions that matter"
 };
+```
+
