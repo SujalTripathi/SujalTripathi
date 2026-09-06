@@ -1,220 +1,214 @@
 <div align="center">
 
-<!-- Premium Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4ecdc4&height=220&section=header&text=Sujal%20Tripathi&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=🚀%20Full%20Stack%20Developer%20%7C%20GSoC%202026%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=60&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:2563eb,100:0ea5e9&height=200&section=header&text=Sujal%20Tripathi&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20GSoC%202026%20Contributor%20%40%20LibreHealth&descSize=16&descAlignY=62&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;GSoC+2026+Contributor+%40+LibreHealth;Built+a+FHIR-based+Drag-and-Drop+Form+Designer;Open+Source+Advocate+%C2%B7+100%2B+PRs+Merged" alt="Typing SVG" />
+</a>
 
 <br>
 
-<!-- Typing Animation with Enhanced Styling -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Universe!;GSoC+2026+Contributor+🎯;Full+Stack+MERN+Developer;Open+Source+Advocate;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/GSoC%202026-Completed-2ea44f?style=for-the-badge&logo=google&logoColor=white" alt="GSoC Status"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2563eb?style=for-the-badge" alt="Status"/>
 
 <br><br>
 
-<!-- Modern Badge Section -->
-<div>
-  <img src="https://komarev.com/ghpvc/?username=SujalTripathi&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/SujalTripathi?label=Followers&style=for-the-badge&color=4ecdc4" alt="followers"/>
-  <img src="https://img.shields.io/badge/⭐%20Stars-Building%20the%20Future-FFD700?style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/badge/💼%20Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/github/followers/SujalTripathi?label=Followers&style=flat-square&color=1f2937" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=SujalTripathi&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/PRs%20Merged-100%2B-2563eb?style=flat-square" alt="PRs Merged"/>
+<img src="https://img.shields.io/badge/Issues%20Resolved-50%2B-2563eb?style=flat-square" alt="Issues Resolved"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/sujaltripathi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/SujalTripathi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:sujaltripathi816@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://sujalprotfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://twitter.com/SujalTripathi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.instagram.com/official_sujaltripathi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@sujaldancechannel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+
 </div>
 
 <br>
 
-<!-- Social Links with Enhanced Design -->
-<div>
-  <a href="https://www.linkedin.com/in/sujaltripathi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SujalTripathi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/SujalTripathi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:sujaltripathi816@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/official_sujaltripathi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@sujaldancechannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</div>
+## Table of Contents
 
-</div>
+- [Summary](#summary)
+- [GSoC 2026 — LibreHealth](#gsoc-2026--librehealth)
+- [Experience Highlights](#experience-highlights)
+- [Technical Skills](#technical-skills)
+- [Featured Projects](#featured-projects)
+- [Open Source Contribution Timeline](#open-source-contribution-timeline)
+- [GitHub Activity](#github-activity)
+- [Writing & Content](#writing--content)
+- [Mentorship & Community](#mentorship--community)
+- [Currently Learning](#currently-learning)
+- [Contact](#contact)
 
----
+<br>
 
-## 🎯 Quick Overview
+## Summary
 
-<div align="center">
+Third-year Computer Engineering student and full-stack developer specializing in the **MERN stack**, based in Surat, Gujarat. Completed **Google Summer of Code 2026 with LibreHealth**, where I built a web-component-based drag-and-drop form designer for FHIR-compliant healthcare forms. Active contributor across multiple open-source communities with 100+ merged pull requests and a track record of shipping features end to end — from architecture decisions through implementation, testing, and mentor review.
 
-| 🌍 | 🎓 | 💻 | 🏆 |
-|:---:|:---:|:---:|:---:|
-| **Location** | **Status** | **Focus** | **Achievement** |
-| Surat, Gujarat, India | 3rd Year Student | Full Stack MERN | GSoC 2026 |
+Alongside development work, I run a small freelance practice building websites, branding, and marketing assets for local businesses, and I document my open-source and GSoC work through weekly progress reports and technical write-ups.
 
-</div>
+| | |
+|---|---|
+| **Location** | Surat, Gujarat, India (IST, UTC+5:30) |
+| **Education** | 3rd-year, Computer Engineering, CKPCET, Surat |
+| **Focus** | Full-Stack Development (MERN), Healthcare Interoperability (FHIR), Open-Source |
+| **Program** | GSoC 2026 — LibreHealth (Completed) |
+| **Availability** | Open to internships, freelance projects, and full-stack roles |
+| **Working Style** | Async-friendly, documents progress weekly, comfortable with distributed teams |
 
----
+<br>
 
-## 🚀 About Me
+## GSoC 2026 — LibreHealth
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+Selected as a **Google Summer of Code 2026 contributor** for LibreHealth to build a **Web Component-based Drag-and-Drop Form Designer** — a zero-framework, vanilla Web Components tool that lets non-developers assemble FHIR-compliant healthcare forms visually, without writing code.
 
-### 👨‍💻 Who Am I?
+**What I shipped:**
 
-I'm a **passionate Full Stack Developer** and **open-source enthusiast** from India with a deep commitment to building scalable applications and contributing meaningfully to the developer community. Currently, I'm a **GSoC 2026 contributor** with LibreHealth, working on impactful healthcare technology.
+- **Drag-and-drop canvas & field palette** — built `<form-designer-canvas>`, `<form-field-wrapper>`, and a component palette using the native HTML5 Drag and Drop API, with click-to-select, hover states, and field removal.
+- **Live FHIR data binding** — connected form fields to FHIR R4 resources so values populate and sync in real time against a Patient resource.
+- **Properties panel & JSON schema sync** — a dedicated panel for editing field label, type, required state, and FHIR path bindings, kept in sync with an internal JSON schema after every canvas action.
+- **Drag-and-drop reordering** — added SortableJS-based reordering of fields within groups as a progressive enhancement alongside existing up/down controls, with a DOM-desync fix to keep it compatible with Lit's re-render cycle.
+- **Canvas/properties-panel architecture split** — refactored an 892-line monolithic component into three cleanly separated custom elements (canvas, properties panel, orchestrator) communicating via custom events, based on mid-term mentor feedback.
+- **Export / Import** — serializes the canvas's form schema to a downloadable, spec-compliant JSON file and rebuilds the canvas from an imported file.
+- **Preview Mode with live conditional logic** — a toggle that renders the design canvas as an actual interactive form, evaluating FHIR `enableWhen` conditions (`=`, `!=`, `exists`, `>`, `<`, across string/boolean/integer/decimal/date/coding answer types) live as the user fills it in, so conditional fields show and hide in real time.
+- **Unit test coverage** — tests for canvas drop behavior, schema sync, properties panel updates, preview-mode rendering, and conditional field visibility, using `@web/test-runner`.
 
-**My Philosophy:** *"Code is poetry; it should be beautiful, maintainable, and solve real-world problems."*
+**Stack:** Lit / vanilla Web Components, native HTML5 Drag & Drop API, FHIR R4, GitLab CI.
 
-### 🎯 Current Endeavors
+<br>
 
-- 🔭 **GSoC 2026:** Contributing to **LibreHealth** - revolutionizing healthcare with open-source
-- 🛠️ **Building:** Enterprise-grade full-stack applications with **MERN Stack**
-- 📚 **Mastering:** System Design, Kubernetes, Advanced DSA, and Microservices Architecture
-- 🤝 **Collaborating:** Active in **10+ open-source projects** (Talawa, CircuitVerse, Palisadoes)
-- 🎓 **Preparing:** For software internships and competitive programming championships
-- 🎥 **Creating:** Tech tutorials and creative content on YouTube
+## Experience Highlights
 
-### 💡 What Sets Me Apart
+### Open-Source Contributions
+Active contributor to several community-driven projects outside of GSoC:
 
-| Badge | Achievement |
-|:-----:|------------|
-| 🎖️ | **GSoC 2026 Contributor** with LibreHealth |
-| 🏅 | **Super Contributor** - Hacktoberfest 2025 |
-| 🥉 | **Rank 3** in Social Winter Of Code (swoc26) |
-| ⚡ | **100+ Pull Requests** merged across repositories |
-| 🌟 | **50+ Issues** resolved in open-source projects |
-| 💼 | **Full development lifecycle** expertise (design → deployment) |
-| 🧠 | **Strong foundation** in Data Structures & Algorithms |
-| ✨ | **Unique blend** of technical skills + creative expression |
+- **Talawa Admin** (Palisadoes Foundation) — contributed JavaScript and web-component changes to the community management platform's admin dashboard, including UI fixes and test coverage improvements.
+- **CircuitVerse** — contributed to the digital logic circuit simulator used by students and educators, working in Ruby on Rails and JavaScript.
+- **6+ other repositories** — smaller fixes, documentation improvements, and issue triage across various open-source projects.
 
-### 📊 Key Metrics
+Across all of these, I've merged 100+ pull requests and resolved 50+ issues, and I write clear PR descriptions and technical documentation as a standard part of the workflow rather than an afterthought.
 
-```
-Total Repositories:     50+
-Open Source Contributions: 150+
-Pull Requests Merged:   100+
-Issues Resolved:        50+
-Active Projects:        10+
-Hacktoberfest Rank:     Super Contributor ⭐
-```
+### Program Recognition
 
-<br clear="both"/>
+- **GSoC 2026** — Successfully completed as a contributor with LibreHealth; received program completion certificate and mentor verification letter.
+- **Hacktoberfest 2025** — Recognized as a Super Contributor for quality contributions across multiple repositories during the event.
+- **Social Winter of Code 2026 (SWOC)** — Ranked 3rd among participating contributors based on merged contributions and code quality.
 
----
+### Freelance & Client Work
+Built and shipped web applications and features for small businesses, including:
 
-## 📈 GitHub Performance Analytics
+- A **transportation and lead-generation website**, adding booking and inquiry-capture features that directly supported the client's sales pipeline.
+- Branding and promotional materials (logos, social media assets, short promotional videos) for multiple small-business clients, handling both the technical build and the visual design.
 
-<div align="center">
+This client-facing work has meant handling the full lifecycle myself — requirements discovery, pricing conversations, build, deployment, and post-launch support — rather than just the coding portion.
 
-### 📊 Contribution Statistics
+<br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SujalTripathi&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF6B6B&icon_color=4ecdc4&text_color=ffffff&border_color=FF6B6B&border_radius=10" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=SujalTripathi&theme=radical&background=0d1117&ring=FF6B6B&fire=FFD700&currStreakLabel=4ecdc4&border=FF6B6B&border_radius=10"/>
-    </td>
-  </tr>
-</table>
+## Technical Skills
 
-### 📊 Activity Graph
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalTripathi&theme=radical&bg_color=0d1117&color=FF6B6B&line=4ecdc4&point=FFD700&area=true&hide_border=false" alt="Contribution Graph" />
-
-### 🗣️ Language Distribution
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=compact&theme=radical&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&border_color=4ecdc4&border_radius=10" alt="Languages" />
-    </td>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=donut&theme=radical&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&border_color=4ecdc4&border_radius=10" alt="Language Donut" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🛠️ Technology Arsenal
+| Category | Skills | Proficiency |
+|---|---|---|
+| **Frontend** | React, Next.js, Lit / Web Components, Redux, Tailwind CSS, Material UI, Framer Motion | Strong |
+| **Backend** | Node.js, Express.js, REST APIs, GraphQL, JWT Auth | Strong |
+| **Healthcare Interop** | FHIR R4 (Questionnaire, Patient, data binding, conditional logic) | Applied in production GSoC work |
+| **Languages** | JavaScript, TypeScript, Python, Java, Go, C++ | Working knowledge across all; JS/TS strongest |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Redis, Firebase, Prisma | Comfortable |
+| **DevOps / Cloud** | Docker, GitHub Actions, GitLab CI, Linux, AWS, Azure | Growing — Kubernetes in active study |
+| **Testing** | @web/test-runner, Jest, React Testing Library, ESLint | Comfortable |
+| **Tools** | Git, GitLab, GitHub, VS Code, Postman, Figma, Vercel, Netlify | Daily use |
 
 <div align="center">
 
-### 💻 Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend Ecosystem
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material--UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-### ⚙️ Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 🗄️ Databases & Data Storage
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🚀 DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-### 📚 Testing & Quality
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React%20Testing%20Library](https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3B8C?style=for-the-badge&logo=eslint&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
----
+<br>
+
+## Featured Projects
+
+### LibreHealth Form Designer — GSoC 2026
+Web-component-based drag-and-drop interface builder for assembling FHIR-compliant healthcare forms without writing code.
+- **Stack:** Lit / Web Components, HTML5 Drag & Drop API, FHIR R4
+- **Role:** GSoC 2026 Contributor
+- **Highlights:** Live FHIR data binding, drag-to-reorder, export/import, live conditional logic (`enableWhen`) in Preview Mode
+- **Link:** [gitlab.com/librehealth/toolkit/lh-toolkit-webcomponents](https://gitlab.com/librehealth/toolkit/lh-toolkit-webcomponents)
+- **Status:** Completed — GSoC 2026
+
+### Talawa Admin
+Admin dashboard for a community management platform used by nonprofits and community organizations.
+- **Stack:** React, TypeScript, GraphQL
+- **Role:** Contributor — UI components, bug fixes, test coverage
+- **Link:** [github.com/PalisadoesFoundation/talawa-admin](https://github.com/PalisadoesFoundation/talawa-admin)
+- **Status:** Actively contributing
+
+### CircuitVerse
+Browser-based digital logic circuit simulator used in engineering education.
+- **Stack:** Ruby on Rails, JavaScript
+- **Role:** Contributor
+- **Link:** [github.com/CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
+- **Status:** Active
+
+### Personal Portfolio
+Personal site presenting projects, skills, and case studies of client work.
+- **Stack:** Next.js, Tailwind CSS, Framer Motion
+- **Role:** Sole developer and designer
+- **Link:** [sujalprotfolio.netlify.app](https://sujalprotfolio.netlify.app/)
+- **Status:** Live
+
+### Transportation Lead-Generation Site
+Client website with booking and inquiry-capture features to support sales.
+- **Stack:** MERN stack
+- **Role:** Feature developer
+- **Status:** Delivered
+
+<br>
+
+## Open Source Contribution Timeline
+
+| Period | Milestone |
+|---|---|
+| 2026 | **Completed GSoC 2026** — LibreHealth Form Designer, certificate + mentor verification received |
+| 2026 | Ranked 3rd, Social Winter of Code (SWOC) |
+| 2025 | Hacktoberfest Super Contributor |
+| 2025 | Crossed 100+ merged pull requests across projects |
+| 2024–2025 | Began contributing to Talawa Admin and CircuitVerse |
+| 2024 | Started building client websites and freelance projects |
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SujalTripathi&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=333333" alt="GitHub Stats" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalTripathi&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=333333" alt="Top Languages" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalTripathi&theme=minimal&hide_border=true&color=2563eb&line=1f2937&point=2563eb&area=true" alt="Contribution Graph" />
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SujalTripathi&theme=flat&no-frame=true&margin-w=8&row=1&column=6&title_color=2563eb&icon_color=2563eb" alt="GitHub Trophies"/>
+
+</div>
 
 ## 🏆 Achievements & Recognition
 
@@ -230,10 +224,6 @@ Hacktoberfest Rank:     Super Contributor ⭐
     <td align="center"><img src="https://img.shields.io/badge/Open%20Source-150%2B%20Contributions-success?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/></td>
   </tr>
 </table>
-
-### 🏅 GitHub Trophies
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SujalTripathi&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=5&title_color=FF6B6B&icon_color=4ecdc4" alt="GitHub Trophies"/>
 
 ### 🎯 Recognition Badges
 
@@ -251,184 +241,48 @@ Hacktoberfest Rank:     Super Contributor ⭐
 
 </div>
 
----
-
-## 🌟 Featured Projects & Contributions
-
-<div align="center">
-
-### 🎯 Highlighted Work
-
-| Project | Description | Tech Stack | Contribution | Status |
-|:-------:|:------------|:----------:|:-------------:|:------:|
-| 🏥 **[LibreHealth](https://github.com/LibreHealthIO)** | Open-source healthcare system | Node.js, React, MongoDB | **GSoC 2026 Contributor** | 🚀 Active |
-| 🌐 **[Talawa Admin](https://github.com/PalisadoesFoundation/talawa-admin)** | Community management platform | React, TypeScript, GraphQL | Active Contributor | ⚡ Building |
-| ⚡ **[CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)** | Digital circuit simulator | Ruby on Rails, JavaScript | Core Contributor | 🎯 Active |
-| 🏢 **[Personal Portfolio](https://sujalprotfolio.netlify.app/)** | Showcase of skills & projects | Next.js, Tailwind, Framer Motion | Full Stack | 🎨 Live |
-| 📚 **[DSA Solutions](https://github.com/SujalTripathi)** | 500+ Algorithm Solutions | Java, JavaScript, Python | Author | 📖 Growing |
-
-### 🔥 Contribution Spectrum
-
-| Category | Stats |
-|:--------:|:-----:|
-| **Pull Requests** | 100+ merged across repositories |
-| **Issues Resolved** | 50+ fixed and documented |
-| **Code Reviews** | 30+ thorough reviews completed |
-| **Documentation** | 10+ projects with improved docs |
-| **Mentoring** | Active community contributor |
-
-</div>
-
----
-
-## 🎓 Learning & Growth
-
-<div align="center">
-
-### 📚 Currently Mastering
-
-```
-┌─────────────────────────────────────────┐
-│  🎯 Active Learning Path                │
-├─────────────────────────────────────────┤
-│  ✓ System Design & Architecture         │
-│  ✓ Advanced DSA & Competitive Programming│
-│  ✓ Kubernetes & Container Orchestration │
-│  ✓ Microservices Design Patterns        │
-│  ✓ Cloud Infrastructure (AWS/Azure)     │
-│  ✓ Advanced React Patterns              │
-│  ✓ Production-Level Backend Development │
-│  ✓ DevOps & CI/CD Pipelines            │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 📊 Detailed Statistics
-
-<div align="center">
-
-### 📈 Comprehensive Analytics
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujalTripathi&theme=radical&border_radius=20" alt="Profile Summary"/>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td width="48%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujalTripathi&theme=radical&border_radius=20" alt="Repos per Language"/>
-    </td>
-    <td width="48%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SujalTripathi&theme=radical&border_radius=20" alt="Most Commit Language"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="48%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujalTripathi&theme=radical&border_radius=20" alt="Stats"/>
-    </td>
-    <td width="48%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SujalTripathi&theme=radical&border_radius=20" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
+## Writing & Content
 
-</div>
+I write about what I'm building and learning, both as documentation for myself and to help others navigating similar paths:
 
----
+- **Weekly progress reports** — summarizing GSoC work, blockers, and what's shipped, shared with mentors and the community.
+- **Technical tutorials** — blog posts covering web development concepts, FHIR/healthcare interoperability, open-source contribution workflows, and lessons from client projects.
+- **Video content** — short tutorials and behind-the-scenes looks at development work, published on YouTube alongside dance and creative content.
 
-## 🗺️ 2026 Strategic Roadmap
+<br>
 
-<div align="center">
+## Mentorship & Community
 
-| Phase | Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
-|:-----:|:-------:|:-------:|:-------:|:-------:|
-| **Goal** | GSoC Kickoff | Mid-term Excellence | Portfolio & Growth | Full-time Prep |
-| **Tasks** | ✅ Contribute to LibreHealth<br>✅ Master System Design<br>✅ Build 3 Advanced Projects | 🎯 Excel in GSoC<br>🎯 Land Internship<br>🎯 Solve 500+ DSA | 🚀 Ship Portfolio<br>🚀 Major OSS Work<br>🚀 Create Tech Content | 💼 Prepare for Full-time<br>💼 CP Championships<br>💼 Industry Connections |
-| **Status** | 🔄 In Progress | 📅 Planned | 📅 Upcoming | 📅 Future |
+- Regularly communicate with mentors and maintainers across open-source projects, treating code review feedback as a core part of the learning process rather than a formality.
+- Help newcomers get started with their first pull requests in the communities I contribute to, based on my own experience going through that process.
+- Participate in community programs (GSoC, Hacktoberfest, SWOC) partly to build the habit of working in distributed, async-first teams.
 
-</div>
+<br>
 
----
+## Currently Learning
 
-## 🤝 Open Source Involvement
+| Area | Why |
+|---|---|
+| System Design & Architecture | Needed to design services that scale past a single-developer project |
+| Advanced DSA & Competitive Programming | Sharpening problem-solving for technical interviews |
+| Kubernetes & Container Orchestration | Extending DevOps skills beyond Docker into orchestration |
+| Microservices Design Patterns | Preparing to architect larger, decoupled systems |
+| Cloud Infrastructure (AWS/Azure) | Deepening deployment and infra skills beyond basic hosting |
 
-<div align="center">
+<br>
 
-### 🌍 Community Contributions
-
-- **LibreHealth** - Healthcare technology revolutionizing access
-- **Talawa Admin** - Community management platform
-- **CircuitVerse** - Digital circuit education
-- **Palisadoes Foundation** - Community tech initiatives
-- **Plus 6+ other active projects**
-
-**Impact:** 150+ contributions, mentoring newcomers, improving documentation, fixing critical bugs
-
-</div>
-
----
-
-## 💡 Philosophy & Values
-
-<div align="center">
-
-> ### 🌟 **"Excellence is not an act, but a habit. Strive for impact over perfection."**
-
-### Core Principles
-
-```javascript
-const myValues = {
-    🎯 innovation: "Push boundaries, explore new frontiers",
-    📈 quality: "Code quality > Code quantity, always",
-    🤝 collaboration: "Collective wisdom builds better solutions",
-    📚 learning: "Every day brings a new opportunity",
-    🌍 impact: "Create solutions that genuinely matter",
-    🎨 creativity: "Balance technical excellence with creative expression",
-    ♻️  sustainability: "Write maintainable, scalable code",
-    💪 resilience: "Challenges are opportunities in disguise"
-};
-```
-
-### Development Mantra
-
-**"Clean Code | Scalable Architecture | Real Impact | Continuous Growth"**
-
-</div>
-
----
-
-## 📞 Let's Connect!
-
-<div align="center">
-
-### 🔗 Connect With Me
-
-I'm always open to:
-- 💬 **Technical discussions** & knowledge sharing
-- 🤝 **Collaboration** on open-source projects
-- 💼 **Opportunities** in full-stack development
-- 🎓 **Mentoring** and learning from peers
-
-### 📧 Reach Out
+## Contact
 
 - **Email:** [sujaltripathi816@gmail.com](mailto:sujaltripathi816@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sujaltripathi](https://www.linkedin.com/in/sujaltripathi)
 - **Portfolio:** [sujalprotfolio.netlify.app](https://sujalprotfolio.netlify.app/)
-- **Location:** 📍 Surat, Gujarat, India
-- **Timezone:** IST (UTC+5:30)
+- **Location:** Surat, Gujarat, India (IST, UTC+5:30)
 
-### 🎯 Fun Facts
+I'm open to technical discussions, open-source collaboration, freelance web development work, and full-stack opportunities — feel free to reach out.
 
-- 💃 I balance intense coding sessions with passionate dance choreography
-- 🎥 Creating tech tutorials and creative content
-- 🎮 Occasional game jam participant
-- 📖 Continuous learner of new technologies
-- 🌍 Advocate for open-source and community-driven development
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ecdc4&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&fontAlignY=70&animation=twinkling" />
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:2563eb,100:0ea5e9&height=100&section=footer" />
 </div>
